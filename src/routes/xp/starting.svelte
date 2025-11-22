@@ -133,7 +133,7 @@
 
 <div class="absolute inset-0 bg-black overflow-hidden text-slate-100">
     <div class="absolute top-[50%] -translate-y-[50%] left-[50%] -translate-x-[50%] animate-fadein">
-        <img src="/images/Vista_loading.jpg" alt="" width="400px">
+        <img src="/images/Vista_loading_logo.jpg" alt="" width="400px">
         <div class="xp-loader">
             <div></div>
             <div></div>
