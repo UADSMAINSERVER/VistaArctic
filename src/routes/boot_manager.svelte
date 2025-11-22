@@ -18,8 +18,8 @@
 
     let current_option = 0;
     let boot_options = [
-        'Start Windows Normally',
-        'Install Windows',
+        'Start Windows Vista Normally',
+        'Install Windows Vista',
     ];
 
     let timer = null;
